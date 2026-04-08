@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1226,["/_next/static/chunks/15_9qn57kxvnw.js"],"ViewportBoundary"]
+3:I[1226,["/_next/static/chunks/15_9qn57kxvnw.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[36802,["/_next/static/chunks/15_9qn57kxvnw.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stock Watcher - AI股票分析"}],["$","meta","1",{"name":"description","content":"智能股票盯盘软件，支持A股/美股/港股，集成AI智能分析"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sn7Mo5GgKVo9MsByVVnJV"}
